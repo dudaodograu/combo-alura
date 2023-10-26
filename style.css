@@ -18,11 +18,13 @@ body{
     padding: 0;
 }
 .principal{
-     background-image: url("img/IMG_0105-660x495.jpg");
+     background-image: url("img/1_beMZsc_a-SZdhz1LxjCkPw.png");
      background-repeat: no-repeat;
      background-size: contain;
      align-items: center;
      text-align: center;
+     
+     
 }
 .container{
     height: 100vh;
